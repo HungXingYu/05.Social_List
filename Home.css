@@ -1,0 +1,28 @@
+/*author:starttemplate*/
+/*reference site : starttemplate.com*/
+body {
+  background-image: url("https://images.pexels.com/photos/1629028/pexels-photo-1629028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  font-size: 20px;
+  font-family: "Black Ops One", cursive;
+  letter-spacing: 1px;
+  min-width: 540px;
+}
+
+.container {
+  padding: 50px;
+}
+
+.start {
+  background-color: rgba(0, 0, 0, 0.55);
+  padding: 20px;
+  border-radius: 15px;
+  border-color: #f5dcd1;
+  border-width: 5px;
+  color: white;
+  box-shadow: 0 1px 0 #cfcfcf;
+}
