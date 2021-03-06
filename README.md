@@ -8,7 +8,7 @@
 
 > ## 使用說明
 
-### 1. Home 頁面
+### 1. 首頁
 
 1. 點擊 Let's start now！進入 All 頁面
 
@@ -63,3 +63,4 @@
 > ## 連結
 
 1. [CodePen](https://codepen.io/Clare46/project/editor/DdkeYx?fbclid=IwAR05Ra6svVvFq0Np71g1Go-xZtvOYF5w_ufycWT-Y6AKRIwrLQohGBOZyUE)
+2. [GitHub Pages](https://hungxingyu.github.io/05.Social_List/)
